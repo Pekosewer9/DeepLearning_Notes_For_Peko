@@ -1,0 +1,5 @@
+#激活jupyter notebook
+conda activate d2l
+cd D:\Vscode1\.venv\DeepLearing-LiMu-Notes
+jupyter notebook
+conda deactivate
